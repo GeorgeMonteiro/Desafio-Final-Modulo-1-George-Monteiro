@@ -1,5 +1,5 @@
 # Desafio-Final-Modulo-1-George-Monteiro
-Desafio Final do modulo 1 do Curso de Cybersegurança da escola Vai na web juntamente com a Kensei Academy.
+Desafio Final do modulo 1, Fundamentos em Cibersegurança, do Curso de Cibersegurança da escola Vai na web juntamente com a Kensei Cybersec.
 # 💼 Projeto de Infraestrutura de Rede Corporativa – Cliente Fictício S/A
 
 Este repositório contém o projeto completo de arquitetura de rede para a empresa fictícia **Cliente Fictício S/A**, com sede em São Paulo (matriz) e filiais no Rio de Janeiro e Minas Gerais.
