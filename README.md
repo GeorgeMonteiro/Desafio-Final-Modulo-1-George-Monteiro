@@ -57,6 +57,10 @@ Projetar uma rede corporativa segura, segmentada e escalável, garantindo comuni
 - Planejamento técnico com base em modelos de rede reais
 - Markdown para documentação GitHub
 
+## 📘 Projeto de Infraestrutura de Rede Corporativa
+
+📘 O documento PDF do projeto está disponível logo acima deste README ☝️
+
 
 ## ✅ Conclusão
 
